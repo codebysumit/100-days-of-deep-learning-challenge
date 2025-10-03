@@ -1,1 +1,1 @@
-# 🚨 100 Days of Deep Learning Challenge: KICKOFF!🚀
+# 🚨 100 Days of Deep Learning Challenge 🚀
